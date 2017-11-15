@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "update_licence",
+    'name': "Extend odoo enterprise expiration date!",
 
     'summary': """
         Update the expiration date of the instance so that the db will not expire, ever! DO a sudo apt-get install python-dateutil
